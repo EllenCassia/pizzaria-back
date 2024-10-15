@@ -135,8 +135,6 @@ make run
 
 <h2 id="contribute">📫 Contribute</h2>
 
-Aqui você explica como outros desenvolvedores podem contribuir com o seu projeto. Por exemplo, explique como criar branches, quais padrões seguir e como abrir um pull request.
-
 1. `git clone https://github.com/EllenCassia/pizzaria-back-end.git`
 2. `git checkout -b feature/NAME`
 3. Siga os padrões de commit
